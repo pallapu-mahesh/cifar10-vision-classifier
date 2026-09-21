@@ -15,7 +15,7 @@
 ---
  
 </div> 
-
+ 
 ## 📌 Overview
 
 This project implements an **image classification system** capable of recognizing **10 object categories** from the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. It leverages **Transfer Learning** from a pre-trained **MobileNetV2** model (trained on ImageNet) and fine-tunes it for CIFAR-10 classification.
