@@ -9,7 +9,7 @@
 [![Keras](https://img.shields.io/badge/Keras-3.14-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.58-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE) 
-
+ 
 [📖 Documentation](documentation.md) • [🚀 Quick Start](#-quick-start) • [🌐 Web Demo](#-web-demo) • [📊 Results](#-results)   
 
 ---
