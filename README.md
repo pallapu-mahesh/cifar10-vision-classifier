@@ -21,7 +21,7 @@
 This project implements an **image classification system** capable of recognizing **10 object categories** from the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. It leverages **Transfer Learning** from a pre-trained **MobileNetV2** model (trained on ImageNet) and fine-tunes it for CIFAR-10 classification.
 
 The project includes:
-- 🧠 A **Jupyter Notebook** for model training with data augmentation
+- 🧠 A **Jupyter Notebook** for model training with data augmentation  
 - 🖥️ A **CLI inference script** for classifying single images
 - 🌐 A **Streamlit web app** for interactive, browser-based predictions
 
