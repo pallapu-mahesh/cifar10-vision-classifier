@@ -28,7 +28,7 @@ The project includes:
 ---
 
 ## 🗂️ Project Structure
-
+ 
 ```
 cifar10-vision-classifier/
 ├── 📓 train.ipynb                   # Model training notebook
